@@ -1,0 +1,11 @@
+{
+    "name": "astrbot_plugin_manual_compress",
+    "desc": "手动触发当前会话的上下文压缩，使用 LLM 将历史对话浓缩为摘要",
+    "version": "1.2.0",
+    "author": "静",
+    "repo": "https://github.com/snlyj/astrbot_plugin_manual_compress",
+    "tags": [
+        "context",
+        "compress"
+    ]
+}
